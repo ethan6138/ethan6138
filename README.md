@@ -1,6 +1,6 @@
 # Ethan Sun
 
-UBC Eng Phys · Mechanical-first, software-next
+Engineering Physics Student at the University of British Columbia
 
 **Links:** [Portfolio repo](https://github.com/<user>/portfolio) ·
 [Resume (PDF)](https://github.com/<user>/portfolio/blob/main/pdf/resume.pdf) ·
