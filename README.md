@@ -11,13 +11,13 @@
 - **3-speed planetary gearbox** — GD&T, tolerances, PLA/PETG. [Repo](https://github.com/<user>/gearbox-3speed) · [Drawings](https://github.com/<user>/gearbox-3speed/blob/main/docs/drawings.pdf)
 
 ## 🛠️ Skills
-**Applications:** SolidWorks(CSWA), Matlab, Microsoft Excel, Arduino IDE, Davinci Resolve
-**Manufacturing:** 3D Printing, GD&T, Wood Tools
-**Software:** Java, C/C++, Matlab
-**Hardware:** Oscilloscope, Multimeter, Arduino Uno
+**Applications:** SolidWorks(CSWA) · Matlab · Microsoft Excel, Arduino IDE, Davinci Resolve
+**Manufacturing:** 3D Printing · GD&T · Wood Tools
+**Software:** Java · C/C++ · Matlab
+**Hardware:** Oscilloscope · Multimeter · Arduino Uno
 
 ## 🎯 Interests
-**Software:** C++, Machine Learning, Algorithm Design and Analysis 
+**Software:** C++, Machine Learning · Algorithm Design and Analysis · Applied Machine Learning
 **Manufacturing:** Drivetrain and Bearing Stacks · Serviceable Design · Composites Basics
 
 
