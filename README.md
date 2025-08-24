@@ -1,15 +1,24 @@
-# Ethan Sun
+# Ethan Sun ⚙️
+🎓 Engineering Physics student at the University of British Columbia.
+🛠️ Builder who turns analysis into parts. Interests: CFD · FEA · CAD · C++ · ANSYS · GD&T · 3D printing. Ramping controls next.
 
-Engineering Physics Student at the University of British Columbia
+## 🔗 Links
+[Resume](pdf/resume.pdf) · 
+[LinkedIn](https://linkedin.com/in/ethsun-ubc882) · 
+[Email](mailto:EthanSun882@gmail.com)
 
-**Links:** [Portfolio repo](https://github.com/<user>/portfolio) ·
-[Resume (PDF)](https://github.com/<user>/portfolio/blob/main/pdf/resume.pdf) ·
-[LinkedIn](https://...)
+## 📌 Projects
+- **3-speed planetary gearbox** — GD&T, tolerances, PLA/PETG. [Repo](https://github.com/<user>/gearbox-3speed) · [Drawings](https://github.com/<user>/gearbox-3speed/blob/main/docs/drawings.pdf)
 
-## Projects
-- 3-speed planetary gearbox — GD&T, tolerances, PLA/PETG. [Drawings](https://github.com/<user>/portfolio/blob/main/pdf/gearbox_drawings.pdf)
-- VEX drivetrain — lead builder, faster pit fixes.
-- 3D-print tolerance study — press ≈ +0.10 mm, slip ≈ +0.20 mm.
+## 🛠️ Skills
+**Applications:** SolidWorks(CSWA), Matlab, Microsoft Excel, Arduino IDE, Davinci Resolve
+**Manufacturing:** 3D Printing, GD&T, Wood Tools
+**Software:** Java, C/C++, Matlab
+**Hardware:** Oscilloscope, Multimeter, Arduino Uno
 
-## Skills
-CAD, drawings, GD&T basics, 3D printing; ramping C++.
+## 🎯 Interests
+**Software:** C++, Machine Learning, Algorithm Design and Analysis 
+**Manufacturing:** Drivetrain and Bearing Stacks · Serviceable Design · Composites Basics
+
+
+
