@@ -12,12 +12,12 @@
 
 ## 🛠️ Skills
 **Applications:** SolidWorks(CSWA) · Matlab · Microsoft Excel, Arduino IDE, Davinci Resolve<br>
-**Manufacturing:** 3D Printing · GD&T · Wood Tools
-**Software:** Java · C/C++ · Matlab
-**Hardware:** Oscilloscope · Multimeter · Arduino Uno
+**Manufacturing:** 3D Printing · GD&T · Wood Tools<br>
+**Software:** Java · C/C++ · Matlab<br>
+**Hardware:** Oscilloscope · Multimeter · Arduino Uno<br>
 
 ## 🎯 Interests
-**Software:** C++, Machine Learning · Algorithm Design and Analysis · Applied Machine Learning
+**Software:** C++, Machine Learning · Algorithm Design and Analysis · Applied Machine Learning<br>
 **Manufacturing:** Drivetrain and Bearing Stacks · Serviceable Design · Composites Basics
 
 
